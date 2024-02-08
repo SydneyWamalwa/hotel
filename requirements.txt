@@ -1,3 +1,4 @@
 Flask==2.2.2
 Gunicorn
 Flask-Bootstrap==3.3.7.1
+Werkzeug==2.2.2
